@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[XYL Music]]></title>
         <description><![CDATA[XYL Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xyl-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:21:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 19:30:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xyl-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=UclCCFNG9q4</p>]]></description>
+            <link>https://thegrid.ai/xyl-music/httpswwwyoutubecomwatchvuclccfng9q4/index.html</link>
+            <guid isPermaLink="false">156e6843-d392-4639-ab92-af2380378330</guid>
+            <pubDate>Fri, 29 Apr 2016 19:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>XYL Music</p>]]></description>
-            <link>undefinedxyl-music/index.html</link>
+            <link>https://thegrid.ai/xyl-music/xyl-music/index.html</link>
             <guid isPermaLink="false">d81c6506-91ae-4c47-a610-d010a4f6a76e</guid>
             <pubDate>Fri, 29 Apr 2016 19:21:45 GMT</pubDate>
         </item>
