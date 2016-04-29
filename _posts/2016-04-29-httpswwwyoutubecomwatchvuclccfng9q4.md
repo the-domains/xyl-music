@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.youtube.com/watch?v=UclCCFNG9q4'
-datePublished: '2016-04-29T19:30:09.891Z'
-dateModified: '2016-04-29T19:30:09.321Z'
+datePublished: '2016-04-29T19:42:53.508Z'
+dateModified: '2016-04-29T19:31:54.738Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-29-httpswwwyoutubecomwatchvuclccfng9q4.md
 published: true
+starred: false
 url: httpswwwyoutubecomwatchvuclccfng9q4/index.html
 _type: Article
 
