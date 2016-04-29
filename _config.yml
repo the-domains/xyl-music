@@ -1,7 +1,7 @@
 name: XYL Music
 favicon: null
 layout_spectrum: 0.9892346616834402
-typography_spectrum: 0.901723399059847
+typography_spectrum: 0.17245
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.2502102099824697
-  lightness: 0.32458527642302215
-  saturation: 0.33569025225006044
-  rhythmicContrast: 0.3654490381013602
+    - '#000000'
+    - '#ffffff'
+    - '#606060'
+    - '#c8c8c8'
+    - '#919191'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
