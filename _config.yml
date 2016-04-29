@@ -2,6 +2,7 @@ name: XYL Music
 favicon: null
 layout_spectrum: 0.26792
 typography_spectrum: 0.17245
+title: XYL Music
 cta:
   domain: null
   bucket: null
