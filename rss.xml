@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[XYL Music]]></title>
+        <description><![CDATA[XYL Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 19:21:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>XYL Music</p>]]></description>
+            <link>undefinedxyl-music/index.html</link>
+            <guid isPermaLink="false">d81c6506-91ae-4c47-a610-d010a4f6a76e</guid>
+            <pubDate>Fri, 29 Apr 2016 19:21:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
